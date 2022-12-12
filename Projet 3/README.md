@@ -11,7 +11,7 @@ Ce projet conciste à réaliser une station météo grace aux capteurs inclut da
 ## Structure du projet
 ```
 📦Project
-│   📜DataLogger.py
+│   📜demo.py
 │   📜README.md 
 └───📂images
     │
@@ -19,7 +19,7 @@ Ce projet conciste à réaliser une station météo grace aux capteurs inclut da
     │   │  ...
     └───📂logo
     │   │  ...
-    └───📂original
+    └───📂menu
         │  ...
 ```
 ## Explications:
