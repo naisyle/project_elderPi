@@ -1,10 +1,10 @@
-# __Projet station météo data logger avec sensehat__
+# __Projet ElderPi__
 
 ## Introduction: 
-Ce projet conciste à réaliser une station météo grace aux capteurs inclut dans l'extension senseHAT pour la carte raspberry pi. J'ai utilisé les composants suivant:
+Ce projet conciste à 
 
 * senseHAT
-* raspberry Pi 4
+* raspberry Pi 3
 
 ![](cablage_alarme.JPG#center)
 
