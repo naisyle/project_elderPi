@@ -22,12 +22,5 @@ Ce projet conciste à réaliser une station météo grace aux capteurs inclut da
     └───📂menu
         │  ...
 ```
-## Explications:
-
-<span style="display:block;text-align:center">
-
-[![](miniature.jpg#center)](https://www.youtube.com/watch?v=pAsckS4BN9A)
-
-</span>
 
     
